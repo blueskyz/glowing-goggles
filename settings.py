@@ -1,4 +1,4 @@
-# -*- coding: cp936 -*-
+# -*- coding: utf-8 -*-
 class Settings():
 	# 存储《外星人入侵》的所有设置的表
 
